@@ -1,0 +1,1 @@
+# solninja-go
